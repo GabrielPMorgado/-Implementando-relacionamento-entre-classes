@@ -53,7 +53,7 @@ class AgenciaBancaria {
 
 const agencia = new AgenciaBancaria(1010); 
 
-const conta1 = new Conta(12345, 'Gabriel Pinto', 500);
+const conta1 = new Conta(12345, 'Gabriel', 500);
 const conta2 = new Conta(67890, 'João Silva', 1500);
 
 
