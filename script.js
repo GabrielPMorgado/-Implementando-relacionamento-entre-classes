@@ -70,7 +70,7 @@ conta2.retirar(300);
 console.log("Contas da agência:");
 console.log(agencia.listContas());
 
-// Procurando uma conta específica
+
 const contaBuscada = agencia.getConta(12345);
 console.log("\nConta buscada:");
 console.log(contaBuscada.toString());
